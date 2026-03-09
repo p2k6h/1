@@ -1,3 +1,5 @@
 api.cloudflare.com
 *.cfargotunnel.com
 *.cloudflare.com
+cfd-features.argotunnel.com
+*.argotunnel.com
